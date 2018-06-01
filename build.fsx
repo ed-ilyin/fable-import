@@ -23,6 +23,7 @@ let packages = [
     "GeoJSON/Fable.Geojson"
     "Leaflet/Fable.Leaflet"
     "CosmosDb/Fable.Import.CosmosDb"
+    "Handsontable/Fable.Import.Handsontable"
 ]
 
 #if MONO
