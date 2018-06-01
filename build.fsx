@@ -25,6 +25,7 @@ let packages = [
     "CosmosDb/Fable.Import.CosmosDb"
     "Handsontable/Fable.Import.Handsontable"
     "Xlsx/Fable.Import.Xlsx"
+    "Vue/Fable.Import.Vue"
 ]
 
 #if MONO
